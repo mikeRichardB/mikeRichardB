@@ -179,13 +179,13 @@ First enterprise-scale agentic AI pilot at KPMG. Full Orchestrator/Worker/Sentin
 **📚 Innovation in Learning & Assessment — Leading Global Accountancy Body** *(KPMG, 2025–2026)*
 One of the most strategically significant programmes for the client in a decade — full restructure of the global qualification system. £4M V&V + £11M C&D. Rebuilt client confidence after prior DT delays; transformed delivery from FDD to Agile ADO.
 
-**🏦 RM Cockpit — Standard Chartered Bank** *(HCLTech, 2023–2024)*
+**🏦 RM Cockpit — A Leading Asia-Pacific Bank** *(HCLTech, 2023–2024)*
 Microsoft FastTrack-assisted Customer 360 platform for 1,000 Relationship Managers across Singapore and Hong Kong. Rescued a Red project — redesigned solution, resolved performance issues, established managed environment governance and ALM pipelines.
 
-**🏛️ D365 Digital Transformation — London Borough of Brent** *(Infosys, 2018–2021)*
-Opened the Infosys account from cold start. Grew to a 53-person team delivering 15+ projects (multi-year, multi-million programme). Turned a Deep Red programme to Green. Delivered 13 COVID-19 emergency projects in 2021.
+**🏛️ D365 Digital Transformation — A London Borough Council** *(Infosys, 2018–2021)*
+Opened the account from cold start. Grew to a 53-person team delivering 15+ projects (multi-year, multi-million programme). Turned a Deep Red programme to Green. Delivered 13 COVID-19 emergency projects in 2021.
 
-**🌍 SAP → D365 — Coca-Cola APJ** *(Microsoft, 2021–2022)*
+**🌍 SAP → D365 — A Global FMCG Leader (APJ)** *(Microsoft, 2021–2022)*
 200+ team, 220 integration points, dual-tenant architecture across Singapore, Malaysia, and Philippines.
 
 </details>
