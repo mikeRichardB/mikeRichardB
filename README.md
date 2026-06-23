@@ -82,8 +82,6 @@ Platforms: Copilot Studio · D365 CE · Microsoft Fabric · Azure · Harvey (leg
 
 ## 🛠️ AI Agent Catalogue
 
-> 7 production agents built and deployed across KPMG MBS delivery teams
-
 | Agent | What it does |
 |---|---|
 | 🔍 **Solution Review Agent v2.0** | Architecture reviews against delivery standards — stored in Azure DevOps, executed via GitHub Copilot with full E2E testing and automated PRs |
