@@ -40,7 +40,7 @@
 |---|---|---|
 | 🏛️ **Agentic AI Transformation** — A Leading UK International Law Firm | Lead Solution Architect | ~15 person team |
 | 🏦 **Enterprise AI Governance** — A Leading UK Building Society | Senior Solution Architect (leading) | ~5 person team |
-| 📚 **Innovation in Learning & Assessment** — A Leading Global Professional Accountancy Body | Lead Solution Architect | 30 person V&V phase |
+| 📚 **Innovation in Learning &amp; Assessment** — A Leading Global Professional Accountancy Body | Lead Solution Architect | 30 person Validate phase |
 | 🏥 **D365 CE Transformation** — A Leading UK Private Hospital Group | Senior Solution Architect | 70 overall programme |
 
 ---
