@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2540&height=220&section=header&text=Mike%20Richard&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Enterprise%20AI%20%26%20Microsoft%20Business%20Applications&descAlignY=58&descFontColor=D4AF37&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2540&height=120&section=header"/>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=600&size=22&pause=1400&color=D4AF37&center=true&vCenter=true&width=720&lines=Senior+Solution+Architect;Director+of+Innovation;Director+of+Architecture;Enterprise+AI+Architecture+Leader;5%C3%97+Microsoft+FastTrack+Recognised+SA" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Mike Richard</h1>
+
+<p align="center">Senior Solution Architect &nbsp;·&nbsp; Enterprise AI &nbsp;·&nbsp; Microsoft Business Applications</p>
+
+<p align="center"><small>Open to: Associate Director · Director</small></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mike-richard/">
