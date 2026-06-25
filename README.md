@@ -84,7 +84,6 @@ Platforms: Copilot Studio · D365 CE · Microsoft Fabric · Azure
 
 | Agent | What it does |
 |---|---|
-| 🔍 **Solution Review Agent v2.0** | Architecture reviews against delivery standards — stored in Azure DevOps, executed via GitHub Copilot with full E2E testing and automated PRs |
 | 📝 **HLD Composer** | Authors High Level Designs to consistent template — reduced authoring from 4–5 hours to under 1 hour |
 | 📋 **WPD Authoring Assistant** | Drafts contract-ready work package descriptions and statements of work |
 | 👤 **Mini-Bios Agent** | Generates consultant bios for proposals and presales |
