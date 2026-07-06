@@ -161,8 +161,8 @@ Platforms: Copilot Studio · D365 CE · Microsoft Fabric · Azure
 | Certification | Status |
 |---|---|
 | Microsoft Certified: Power Platform Solution Architect Expert (PL-600) | ✅ Active — Apr 2024 |
-| Microsoft Azure AI Fundamentals (AI-900) | 🔄 In progress |
-| TOGAF Foundation & Practitioner | 🔄 In progress |
+| Microsoft Azure AI Fundamentals (AI-900) | ✅ Active — Jun 2026 |
+| TOGAF 10 Foundation & Practitioner (OGEA-101 + OGEA-102) | ✅ Active — Jul 2026 |
 | Microsoft Certified: Power Platform Functional Consultant Associate (PL-200) | ✅ Active — Jan 2021 |
 | AWS Certified Solutions Architect – Associate | ✅ Active |
 | Microsoft Certified: Dynamics 365 CE (MB2-703) | ✅ Active |
