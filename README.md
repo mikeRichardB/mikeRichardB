@@ -28,42 +28,6 @@
   across teams of up to 70 in financial services, legal, public sector, healthcare, and FMCG.
 </p>
 
----
-
-## 🤖 Agentic AI Architecture
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                    ORCHESTRATOR AGENT                   │
-│              (Copilot Studio / Agent Builder)           │
-└──────────┬────────────┬──────────────┬──────────────────┘
-           │            │              │
-    ┌──────▼─────┐ ┌────▼──────┐ ┌────▼──────────┐
-    │  WORKER    │ │  WORKER   │ │    WORKER     │
-    │  AGENT 1   │ │  AGENT 2  │ │    AGENT N    │
-    └──────┬─────┘ └────┬──────┘ └────┬──────────┘
-           └────────────┼─────────────┘
-                        │
-          ┌─────────────▼──────────────┐
-          │       Compliance Agent     │
-          │    (Safety & Compliance)   │
-          └─────────────┬──────────────┘
-                        │
-          ┌─────────────▼──────────────┐
-          │ Post Execution Agent       │
-          │  (Monitoring & Telemetry)  │
-          └─────────────┬──────────────┘
-                        │
-          ┌─────────────▼──────────────┐
-          │     STATE & MEMORY         │
-          │  +        DATA LAYER       │
-          └────────────────────────────┘
-
-Protocols: A2A (Agent-to-Agent)  ·  MCP (Model Context Protocol)
-Platforms: Copilot Studio · D365 CE · Microsoft Fabric · Azure
-```
-
----
 
 ## 🧠 Personal AI Systems
 
