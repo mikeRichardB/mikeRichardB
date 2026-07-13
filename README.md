@@ -120,10 +120,10 @@
 <br/>
 
 **🏛️ Agentic AI — Leading UK International Law Firm** *(2026)*
-First enterprise-scale agentic AI pilot at a leading professional services firm. Full Orchestrator/Worker/Sentinel/Vigil stack using Copilot Studio, Microsoft Fabric, D365 CE, A2A and MCP protocols. Architecture designed from first principles for this engagement. Vision Phase complete; Validate Phase underway.
+First enterprise-scale agentic AI pilot at a leading professional services firm. Full Orchestrator/Worker/Sentinel/Vigil stack using Copilot Studio, Microsoft Fabric, D365 CE, A2A and MCP protocols. Architecture designed from first principles for this engagement. .
 
 **📚 Learning & Assessment — Leading Global Accountancy Body** *(2025–2026)*
-One of the most strategically significant programmes for the client in a decade — full restructure of the global qualification system. Multi-million pound programme across Validate and Deliver phases. Rebuilt client confidence after prior DT delays; transformed delivery from FDD to Agile ADO.
+One of the most strategically significant programmes for the client in a decade — full restructure of the global qualification system. Multi-million pound programme across Validate and Deliver phases. Rebuilt client confidence after prior delays; transformed delivery from FDD to Agile ADO.
 
 **🏦 RM Cockpit — A Leading Asia-Pacific Bank** *(2023–2024)*
 Microsoft FastTrack-assisted Customer 360 platform for 1,000 Relationship Managers across Singapore and Hong Kong. Rescued a Red project — redesigned solution, resolved performance issues, established managed environment governance and ALM pipelines.
