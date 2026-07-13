@@ -4,8 +4,6 @@
 
 <p align="center">Senior Solution Architect &nbsp;·&nbsp; Enterprise AI &nbsp;·&nbsp; Microsoft Business Applications</p>
 
-<p align="center"><small>Open to: Associate Director · Director</small></p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mike-richard/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -32,19 +30,6 @@
 
 ---
 
-## ⚡ What I'm Building Now
-
-> **Senior Manager / Senior Solution Architect** · *July 2024 – Present*
-
-| Engagement | Role | Scale |
-|---|---|---|
-| 🏛️ **Agentic AI Transformation** — A Leading UK International Law Firm | Lead Solution Architect | ~15 person team |
-| 🏦 **Enterprise AI Governance** — A Leading UK Building Society | Senior Solution Architect (leading) | ~5 person team |
-| 📚 **Innovation in Learning &amp; Assessment** — A Leading Global Professional Accountancy Body | Lead Solution Architect | 30 person Validate phase |
-| 🏥 **D365 CE Transformation** — A Leading UK Private Hospital Group | Senior Solution Architect | 70 overall programme |
-
----
-
 ## 🤖 Agentic AI Architecture
 
 ```
@@ -60,36 +45,23 @@
            └────────────┼─────────────┘
                         │
           ┌─────────────▼──────────────┐
-          │        SENTINEL            │
+          │       Compliance Agent     │
           │    (Safety & Compliance)   │
           └─────────────┬──────────────┘
                         │
           ┌─────────────▼──────────────┐
-          │          VIGIL             │
+          │ Post Execution Agent       │
           │  (Monitoring & Telemetry)  │
           └─────────────┬──────────────┘
                         │
           ┌─────────────▼──────────────┐
           │     STATE & MEMORY         │
-          │  + FABRIC DATA LAYER       │
+          │  +        DATA LAYER       │
           └────────────────────────────┘
 
 Protocols: A2A (Agent-to-Agent)  ·  MCP (Model Context Protocol)
 Platforms: Copilot Studio · D365 CE · Microsoft Fabric · Azure
 ```
-
----
-
-## 🛠️ AI Agent Catalogue
-
-| Agent | What it does |
-|---|---|
-| 📝 **HLD Composer** | Authors High Level Designs to consistent template — reduced authoring from 4–5 hours to under 1 hour |
-| 📋 **WPD Authoring Assistant** | Drafts contract-ready work package descriptions and statements of work |
-| 👤 **Mini-Bios Agent** | Generates consultant bios for proposals and presales |
-| 📡 **Release Channel Advisor** | Advises optimal Power Platform release channel strategy per project context |
-| 🤖 **M365 Agent Creator** | Guides users to build personal AI agents from simple plain-language requirements |
-| ✅ **Personal Task Triage Agent** | Reads emails and Teams messages, prioritises by hierarchy and triage rules |
 
 ---
 
@@ -166,7 +138,6 @@ Platforms: Copilot Studio · D365 CE · Microsoft Fabric · Azure
 | Microsoft Certified: Power Platform Functional Consultant Associate (PL-200) | ✅ Active — Jan 2021 |
 | AWS Certified Solutions Architect – Associate | ✅ Active |
 | Microsoft Certified: Dynamics 365 CE (MB2-703) | ✅ Active |
-| **Won firm hackathon** — Contact Centre AI Agent | 🥇 Jun 2026 |
 
 ---
 
@@ -187,7 +158,7 @@ Platforms: Copilot Studio · D365 CE · Microsoft Fabric · Azure
 **🏛️ Agentic AI — Leading UK International Law Firm** *(2026)*
 First enterprise-scale agentic AI pilot at a leading professional services firm. Full Orchestrator/Worker/Sentinel/Vigil stack using Copilot Studio, Microsoft Fabric, D365 CE, A2A and MCP protocols. Architecture designed from first principles for this engagement. Vision Phase complete; Validate Phase underway.
 
-**📚 Innovation in Learning & Assessment — Leading Global Accountancy Body** *(2025–2026)*
+**📚 Learning & Assessment — Leading Global Accountancy Body** *(2025–2026)*
 One of the most strategically significant programmes for the client in a decade — full restructure of the global qualification system. Multi-million pound programme across Validate and Deliver phases. Rebuilt client confidence after prior DT delays; transformed delivery from FDD to Agile ADO.
 
 **🏦 RM Cockpit — A Leading Asia-Pacific Bank** *(2023–2024)*
