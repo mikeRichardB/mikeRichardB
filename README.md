@@ -2,7 +2,7 @@
 
 <h1 align="center">Mike Richard</h1>
 
-<p align="center">Senior Solution Architect &nbsp;·&nbsp; Enterprise AI &nbsp;·&nbsp; Microsoft Business Applications</p>
+<p align="center">Architect &nbsp;·&nbsp; Enterprise AI &nbsp;·&nbsp; Microsoft Business Applications</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mike-richard/">
