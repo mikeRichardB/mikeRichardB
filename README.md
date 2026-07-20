@@ -161,12 +161,18 @@ Platforms: Copilot Studio · D365 CE · Microsoft Fabric · Azure
 | Certification | Status |
 |---|---|
 | Microsoft Certified: Power Platform Solution Architect Expert (PL-600) | ✅ Active — Apr 2024 |
-| Microsoft Azure AI Fundamentals (AI-900) | ✅ Active — Jun 2026 |
-| TOGAF 10 Foundation & Practitioner (OGEA-101 + OGEA-102) | ✅ Active — Jul 2026 |
+| Microsoft Azure AI Fundamentals (AI-900) | ✅ Passed — Jun 2026 |
+| [TOGAF 10 Applied Enterprise Architect](https://www.credly.com/badges/55abea13-9f6f-4f06-9839-c07132f66c78/public_url) (Foundation + Practitioner + Applied Practitioner) | ✅ Passed — Jul 2026 |
 | Microsoft Certified: Power Platform Functional Consultant Associate (PL-200) | ✅ Active — Jan 2021 |
 | AWS Certified Solutions Architect – Associate | ✅ Active |
 | Microsoft Certified: Dynamics 365 CE (MB2-703) | ✅ Active |
 | **Won firm hackathon** — Contact Centre AI Agent | 🥇 Jun 2026 |
+
+---
+
+## 📖 Publications
+
+- **Principal author** — [*"Integrate a booking system with Dynamics 365 Customer Service"*](https://learn.microsoft.com/en-us/dynamics365/guidance/reference-architectures/customer-service-integrate-booking-system-appointments) — official Microsoft-published reference architecture, Dynamics 365 Guidance (learn.microsoft.com), credited by name in the article's Contributors section
 
 ---
 
