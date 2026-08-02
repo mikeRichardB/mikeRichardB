@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2540&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4D040A&height=120&section=header"/>
+
+<p align="center">
+  <a href="https://mgrb.in"><img src="assets/mgrb-logo.png" alt="mgrb.in" width="80"></a>
+</p>
 
 <h1 align="center">Mike Richard</h1>
 
@@ -10,14 +14,14 @@
   </a>
   &nbsp;
   <a href="https://mgrb.in">
-    <img src="https://img.shields.io/badge/Blog-mgrb.in-D4AF37?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
+    <img src="https://img.shields.io/badge/Blog-mgrb.in-4D040A?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
   </a>
   &nbsp;
   <a href="https://www.microsoft.com/en-us/dynamics-365/fast-track/recognized-solution-architects">
     <img src="https://img.shields.io/badge/Microsoft_FastTrack-5%C3%97_FTRSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="5× FTRSA"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Manchester%2C_UK-📍-1A2540?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Manchester%2C_UK-📍-4D040A?style=for-the-badge" alt="Location"/>
 </p>
 
 ---
@@ -79,8 +83,8 @@
 
 **AI & Agentic Protocols**
 
-![Agentic AI](https://img.shields.io/badge/Agentic_AI_Architecture-1A2540?style=flat-square&logoColor=white)
-![AI Governance](https://img.shields.io/badge/AI_Governance_Frameworks-1A2540?style=flat-square&logo=microsoft&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI_Architecture-4D040A?style=flat-square&logoColor=white)
+![AI Governance](https://img.shields.io/badge/AI_Governance_Frameworks-4D040A?style=flat-square&logo=microsoft&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-5C2D91?style=flat-square&logoColor=white)
 ![A2A](https://img.shields.io/badge/A2A_(Agent--to--Agent)-5C2D91?style=flat-square&logoColor=white)
 
@@ -123,4 +127,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2540&height=100&section=footer&fontColor=D4AF37"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4D040A&height=100&section=footer&fontColor=EED888"/>
